@@ -4,7 +4,7 @@ A starter using react, webpack, babel, es2015 & sass.
 
 Compiles all the scripts & styles from `src` path to `dist`. The kit generates source maps by default in development mode.
 
-##Installation
+##Installation (Skip to "Usage" if only wanting to run/view page.)
 
 I have already compiled a build so unless you want to run the dev environment you can likely skip this step below, see "Usage" below.
 
