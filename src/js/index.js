@@ -1,13 +1,12 @@
-
-import React, { Component } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
+
+import App from './components/app';
 
 require("../styles/main.scss");
 
-// import HelloForm from './HelloForm';
-
 
 ReactDOM.render(
-    <div>Hello!</div>
-    , document.getElementById('view')
+    <App />
+    ,document.querySelector('#app')
 );
